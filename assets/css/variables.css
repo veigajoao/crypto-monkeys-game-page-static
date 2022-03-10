@@ -37,11 +37,11 @@
   --color-links-hover: #1ec3e0;
 
   /* Primay colors */
-  --color-primary: #0ea2bd;
-  --color-primary-light: #1ec3e0;
-  --color-primary-dark: #0189a1;
+  --color-primary: #F8C84A;
+  --color-primary-light: #F8C84A;
+  --color-primary-dark: #F8C84A;
 
-  --color-primary-rgb: 14, 162, 189;
+  --color-primary-rgb: 248, 200, 74;
   --color-primary-light-rgb: 30, 195, 224;
   --color-primary-dark-rgb: 1, 137, 161;
 
@@ -163,7 +163,7 @@
 .font-primary { font-family: var(--font-primary) !important;}
 .font-secondary { font-family: var(--font-secondary) !important; }
 
-/* Text Colors */
+
 .color-default { color: var(--color-default) !important; }
 .color-links { color: var(--color-links) !important; }
 .color-links:hover { color: var(--color-links-hover) !important; }
@@ -187,7 +187,7 @@
 .color-gray { color: var(--color-gray) !important; }
 .color-black { color: var(--color-black) !important; }
 
-/* Background Colors */
+
 .bg-default { background-color: var(--color-default) !important; }
 .bg-primary { background-color: var(--color-primary) !important; }
 .bg-primary-light { background-color: var(--color-primary-light) !important; }

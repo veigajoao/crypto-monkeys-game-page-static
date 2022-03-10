@@ -104,11 +104,11 @@ section {
   font-size: 48px;
   font-weight: 300;
   margin-bottom: 20px;
-  color: var(--color-secondary);
+  color: var(--color-white);
 }
 .section-header p {
   margin: 0 auto;
-  color: var(--color-secondary-light);
+  color: var(--color-white);
 }
 @media (min-width: 1280px) {
   .section-header p {
@@ -489,14 +489,14 @@ section {
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 300;
-  color: var(--color-secondary);
+  color: var(--color-white);
   font-family: var(--font-secondary);
 }
 .hero-animated h2 span {
   color: var(--color-primary);
 }
 .hero-animated p {
-  color: rgba(var(--color-secondary-rgb), 0.8);
+  color: rgba(var(--color-white-rgb), 0.8);
   margin: 0 0 30px 0;
   font-size: 20px;
   font-weight: 400;
